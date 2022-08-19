@@ -47,6 +47,6 @@
 <br clear="both">
 
 <!-- <img href="https://raw.githubusercontent.com/Vinicius-Jesus-Oliveira/Vinicius-Jesus-Oliveira/blob/output/snake.svg" alt="Snake animation" /> -->
-![Snake animation](https://raw.githubusercontent.com/Vinicius-Jesus-Oliveira/Vinicius-Jesus-Oliveira/blob/output/snake.svg)
+![Snake animation](https://github.com/Vinicius-Jesus-Oliveira/Vinicius-Jesus-Oliveira/blob/output/snake.svg)
 
 ###
