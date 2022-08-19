@@ -38,8 +38,8 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" width="52" alt="google logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="52" alt="linkedin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" onclick="window.location.href = 'https://g.dev/vinicius-jesus-oliveira'" height="40" width="52" alt="google logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="52" alt="linkedin logo" />
 </div>
 
 ###
@@ -49,4 +49,3 @@
 <img href="https://raw.githubusercontent.com/Vinicius-Jesus-Oliveira/Vinicius-Jesus-Oliveira/blob/output/snake.svg" alt="Snake animation" />
 
 ###
-Profile Readme Generator
