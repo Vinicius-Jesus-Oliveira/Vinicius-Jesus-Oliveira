@@ -38,7 +38,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" onclick="window.location.href = 'https://g.dev/vinicius-jesus-oliveira'" height="40" width="52" alt="google logo" />
+  <a href="https://g.dev/vinicius-jesus-oliveira"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" width="52" alt="google logo" /></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="52" alt="linkedin logo" />
 </div>
 
